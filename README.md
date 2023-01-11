@@ -6,6 +6,9 @@ in its encoded space and shape it on a manifold to better cluster it
 with a shallow cluster method, in order to boost the performance of
 the shallow clustering.
 
+The corresponding colab notebook can be found
+[here](https://colab.research.google.com/drive/11j16mhZbaPT_2RA7rb6F1c5JRcn2RMYe?usp=sharing]
+
 ## Project init
 To init the project you can either create a conda environment
 (recomended, since this way the python version is controlled) with
